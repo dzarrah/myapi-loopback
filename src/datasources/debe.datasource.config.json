@@ -1,0 +1,6 @@
+{
+  "name": "debe",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/db.json"
+}

@@ -1,0 +1,30 @@
+{
+  "ids": {
+    "Todo": 6,
+    "Department": 4,
+    "Employee": 4,
+    "User": 2
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"name\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
+      "2": "{\"name\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"name\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
+      "4": "{\"name\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
+      "5": "{\"name\":\"Balik\",\"desc\":\"Tapi mending ngudud heula\",\"id\":5}"
+    },
+    "Department": {
+      "1": "{\"name\":\"Manager\",\"desc\":\"\",\"id\":1}",
+      "2": "{\"name\":\"User\",\"desc\":\"\",\"id\":2}",
+      "3": "{\"name\":\"Admin\",\"desc\":\"\",\"id\":3}"
+    },
+    "Employee": {
+      "1": "{\"name\":\"Abe\",\"address\":\"string\",\"age\":\"string\",\"email\":\"string\",\"departmentId\":1,\"id\":1}",
+      "2": "{\"name\":\"Faris\",\"address\":\"string\",\"age\":\"string\",\"email\":\"string\",\"departmentId\":2,\"id\":2}",
+      "3": "{\"name\":\"Kusmin\",\"address\":\"string\",\"age\":\"string\",\"email\":\"string\",\"departmentId\":3,\"id\":3}"
+    },
+    "User": {
+      "1": "{\"email\":\"abe@dul.com\",\"password\":\"123456\",\"id\":1}"
+    }
+  }
+}
